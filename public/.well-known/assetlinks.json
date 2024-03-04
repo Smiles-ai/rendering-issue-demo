@@ -1,0 +1,28 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.smilesai.smilesai",
+      "sha256_cert_fingerprints": [
+        "77:F5:87:C9:9D:79:B5:4D:A9:81:DE:67:B1:C9:F0:DE:85:88:05:DA:9A:C2:65:BC:68:BA:DF:8B:36:8F:D8:04"
+      ]
+    }
+  },
+  [
+    {
+      "relation": [
+        "delegate_permission/common.handle_all_urls"
+      ],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "com.smilesai.smiles",
+        "sha256_cert_fingerprints": [
+          "86:15:52:A8:D6:91:41:D8:5F:3F:8D:F0:AB:26:CD:AF:CC:9F:28:5B:00:9E:9A:48:24:B7:BA:BA:D5:C6:CC:D6"
+        ]
+      }
+    }
+  ]
+]

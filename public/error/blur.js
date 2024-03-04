@@ -1,0 +1,3 @@
+export const blurs = {
+  brokenJawBlur: 'data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAADCAIAAAA7ljmRAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAMElEQVQImWO4+v//7AsfI3uWz77+iCF35ZHeU68qN1+Zcf4ZAwMDg3vD8tYjb4EsAN+dFRwvfsexAAAAAElFTkSuQmCC',
+}

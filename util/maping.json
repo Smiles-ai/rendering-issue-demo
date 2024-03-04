@@ -1,0 +1,1152 @@
+{
+     "Root Canal Treatment - posterior": {
+         "name": "Root Canal Treatment - posterior",
+         "price": 5999,
+         "active": true,
+         "type": "clinic",
+         "description": "A dental procedure to remove infected pulp from the back teeth, filling the root canal, and sealing the tooth to alleviate pain and save it from extraction.",
+         "preImage": "/dezy/PPR/pre-post/canal_pre.png",
+         "postImage": "/dezy/PPR/pre-post/canal_post.png",
+         "knowMore": "/services/root-canal",
+         "mappingKey": "Root Canal Treatment"
+
+     },
+     "Root Canal Treatment - anterior": {
+         "name": "Root Canal Treatment - anterior",
+         "price": 4999,
+         "active": true,
+         "type": "clinic",
+         "description": "Similar to posterior RCT, but performed on front teeth, preserving their natural appearance and functionality.",
+         "preImage": "/dezy/PPR/pre-post/canal_pre.png",
+         "postImage": "/dezy/PPR/pre-post/canal_post.png",
+         "knowMore": "/services/root-canal",
+         "mappingKey": "Root Canal Treatment"
+     },
+     "Whitening": {
+         "name": "Whitening",
+         "price": 6999,
+         "active": true,
+         "description": "A cosmetic treatment to lighten teeth, removing stains and discoloration, providing a brighter smile.",
+         "preImage": "/dezy/PPR/pre-post/bleaching_before.png",
+         "postImage": "/dezy/PPR/pre-post/bleaching_after.png",
+         "knowMore": "/services/teeth-whitening",
+         "mappingKey": "Bleaching"
+     },
+     "Single sitting RCT- Anterior ": {
+         "name": "Single sitting RCT- Anterior ",
+         "price": 5999,
+         "active": true,
+         "description": "Root canal treatment completed in one visit, saving time and reducing discomfort for patients with infected front teeth.",
+         "preImage": "/dezy/PPR/pre-post/canal_pre.png",
+         "postImage": "/dezy/PPR/pre-post/canal_post.png",
+         "knowMore": "/services/root-canal",
+         "mappingKey": "Root Canal Treatment"
+     },
+     "Single sitting RCT- Posterior ": {
+         "name": "Single sitting RCT- Posterior ",
+         "price": 6999,
+         "active": true,
+         "description": "Root canal treatment completed in one visit, saving time and reducing discomfort for patients with infected back teeth.",
+         "preImage": "/dezy/PPR/pre-post/canal_pre.png",
+         "postImage": "/dezy/PPR/pre-post/canal_post.png",
+         "knowMore": "/services/root-canal",
+         "mappingKey": "Root Canal Treatment"
+     },
+     "Root canal treatment- anterior- BDS": {
+         "name": "Root canal treatment- anterior- BDS",
+         "price": 4999,
+         "active": true,
+         "description": "An anterior RCT performed by a dentist, treating infected front teeth to maintain oral health.",
+         "preImage": "/dezy/PPR/pre-post/canal_pre.png",
+         "postImage": "/dezy/PPR/pre-post/canal_post.png",
+         "knowMore": "/services/root-canal",
+         "mappingKey": "Root Canal Treatment"
+     },
+     "Consultation": {
+         "name": "Consultation",
+         "price": 0,
+         "active": true,
+         "description": "An appointment with a dental professional to discuss oral health issues, receive advice, and plan necessary treatments."
+     },
+     "Root canal treatment- posterior- BDS": {
+         "name": "Root canal treatment- posterior- BDS",
+         "price": 5999,
+         "active": true,
+         "description": "An anterior RCT performed by a dentist, treating infected back teeth to maintain oral health.",
+         "preImage": "/dezy/PPR/pre-post/canal_pre.png",
+         "postImage": "/dezy/PPR/pre-post/canal_post.png",
+         "knowMore": "/services/root-canal",
+         "mappingKey": "Root Canal Treatment"
+     },
+     "Re-Root canal treatment- anterior": {
+         "name": "Re-Root canal treatment- anterior",
+         "price": 6999,
+         "active": true,
+         "description": "A repeat of the root canal procedure, typically done to treat persistently infected front teeth.",
+         "preImage": "/dezy/PPR/pre-post/canal_pre.png",
+         "postImage": "/dezy/PPR/pre-post/canal_post.png",
+         "knowMore": "/services/root-canal",
+         "mappingKey": "Root Canal Treatment"
+     },
+     "Re-Root canal treatment- Posterior ": {
+         "name": "Re-Root canal treatment- Posterior ",
+         "price": 7999,
+         "active": true,
+         "description": "A repeat of the root canal procedure, typically done to treat persistently infected back teeth.",
+         "preImage": "/dezy/PPR/pre-post/canal_pre.png",
+         "postImage": "/dezy/PPR/pre-post/canal_post.png",
+         "knowMore": "/services/root-canal",
+         "mappingKey": "Root Canal Treatment"
+     },
+     "Composite Laminates- per teeth": {
+         "name": "Composite Laminates- per teeth",
+         "price": 3999,
+         "active": true,
+         "description": "Thin resin shells bonded to the teeth to improve aesthetics, correct minor imperfections, and enhance smiles.",
+         "preImage": "/dezy/PPR/pre-post/comp_filing_pre.jpeg",
+         "postImage": "/dezy/PPR/pre-post/comp_filling_post.jpeg",
+         "knowMore": "/services/dental-bonding",
+         "mappingKey": "Composite filling"
+     },
+     "Indirect  Veneers - per teeth ": {
+         "name": "Indirect  Veneers - per teeth ",
+         "price": 5999,
+         "active": true,
+         "description": "Custom-made porcelain or ceramic veneers to cover the front surface of teeth for a natural and durable appearance.",
+         "preImage": "/dezy/PPR/teeth.png",
+         "postImage": "/dezy/PPR/teeth.png",
+         "knowMore": "/services/veneers",
+         "mappingKey": "Veneers"
+     },
+     "Post and Core(fibre) for post plus RCT Charges (Add on)": {
+         "name": "Post and Core(fibre) for post plus RCT Charges (Add on)",
+         "price": 2499,
+         "active": true,
+         "description": "A custom-made post inserted into the root canal with fiber material, providing support for a dental crown after root canal treatment."
+     },
+     "Dental jewellery": {
+         "name": "Dental jewellery",
+         "price": 6999,
+         "active": true,
+         "description": "Non-invasive cosmetic application of jewels on teeth to enhance appearance."
+     },
+     "Internal bleaching (Add on)": {
+         "name": "Internal bleaching (Add on)",
+         "price": 1999,
+         "active": true,
+         "description": "A procedure to whiten a discolored tooth from within, often performed after a root canal treatment.",
+         "preImage": "/dezy/PPR/pre-post/bleaching_before.png",
+         "postImage": "/dezy/PPR/pre-post/bleaching_after.png",
+         "knowMore": "/services/teeth-whitening",
+         "mappingKey": "Bleaching"
+     },
+     "Apicoectomy (Add on)": {
+         "name": "Apicoectomy (Add on)",
+         "price": 4999,
+         "active": true,
+         "description": "A surgical procedure to remove the tip of the tooth root and infected tissue around it to save a severely damaged tooth."
+     },
+     "Topical fluoride application- Adult (per teeth)": {
+         "name": "Topical fluoride application- Adult (per teeth)",
+         "price": 399,
+         "active": true,
+         "description": "Application of fluoride on adult teeth to strengthen enamel and prevent decay."
+     },
+     "X-Ray": {
+         "name": "X-Ray",
+         "price": 99,
+         "active": true,
+         "description": "Diagnostic imaging to visualize teeth, bones, and surrounding structures, aiding in identifying dental problems."
+     },
+     "Composite Filling- single surface": {
+         "name": "Composite Filling- single surface",
+         "price": 1099,
+         "active": true,
+         "description": "A tooth-colored resin filling used to restore and strengthen teeth affected by decay or damage.",
+         "preImage": "/dezy/PPR/pre-post/comp_filing_pre.jpeg",
+         "postImage": "/dezy/PPR/pre-post/comp_filling_post.jpeg",
+         "knowMore": "/services/dental-bonding",
+         "mappingKey": "Composite filling"
+     },
+     "Composite Filling-Two surfaces": {
+         "name": "Composite Filling-Two surfaces",
+         "price": 1499,
+         "active": true,
+         "description": "A tooth-colored resin filling used to restore and strengthen teeth affected by decay or damage.",
+         "preImage": "/dezy/PPR/pre-post/m_comp_filing_pre.jpeg",
+         "postImage": "/dezy/PPR/pre-post/m_comp_filing_post.jpeg",
+         "knowMore": "/services/dental-bonding",
+         "mappingKey": "Multiple Composite filling"
+     },
+     "GIC filling-single surface": {
+         "name": "GIC filling-single surface",
+         "price": 799,
+         "active": true,
+         "description": "Glass ionomer cement filling used to repair teeth with decay or minor damage."
+     },
+     "GIC filling- two surface": {
+         "name": "GIC filling- two surface",
+         "price": 999,
+         "active": true,
+         "description": "Glass ionomer cement filling used to repair teeth with decay or minor damage."
+     },
+     "Pit and fissure sealants /tooth (per tooth)": {
+         "name": "Pit and fissure sealants /tooth (per tooth)",
+         "price": 499,
+         "active": true,
+         "description": "Protective coating applied to the chewing surfaces of molars and premolars to prevent cavities."
+     },
+     "Oral prohylaxis- single sitting ": {
+         "name": "Oral prohylaxis- single sitting ",
+         "price": 1199,
+         "active": true,
+         "description": "Dental cleaning and scaling procedure to remove plaque, tartar, and stains, promoting oral health in one visit",
+         "preImage": "/dezy/PPR/pre-post/l_scaling_pre.jpeg",
+         "postImage": "/dezy/PPR/pre-post/l_scaling_pre.jpeg",
+         "knowMore": "/services/scaling-root-planning",
+         "mappingKey": "Scaling & Deep cleaning"
+     },
+     "Oral prohylaxis-Two sittings": {
+         "name": "Oral prohylaxis-Two sittings",
+         "price": 1799,
+         "active": true,
+         "description": "Dental cleaning and scaling procedure to remove plaque, tartar, and stains, promoting oral health in two visits",
+         "preImage": "/dezy/PPR/pre-post/l_scaling_pre.jpeg",
+         "postImage": "/dezy/PPR/pre-post/l_scaling_pre.jpeg",
+         "knowMore": "/services/scaling-root-planning",
+         "mappingKey": "Scaling & Deep cleaning"
+     },
+     "Consultation with specialist ": {
+         "name": "Consultation with specialist ",
+         "price": 799,
+         "active": true,
+         "description": "An appointment with a specialized dental professional to address complex oral issues and discuss treatment options."
+     },
+     "Dental Implant- Basic": {
+         "name": "Dental Implant- Basic",
+         "price": 19999,
+         "active": true,
+         "type": "implant",
+         "description": "Surgical insertion of an artificial tooth root into the jawbone to support a dental crown.",
+         "preImage": "/dezy/PPR/pre-post/implant_before.png",
+         "postImage": "/dezy/PPR/pre-post/implant_after.png",
+         "knowMore": "/services/dental-implants",
+         "mappingKey": "Implant"
+     },
+     "Implant crown- PFM- Screw retained": {
+         "name": "Implant crown- PFM- Screw retained",
+         "price": 4999,
+         "active": true,
+         "description": "A porcelain-fused-to-metal dental crown attached to an implant via a screw.",
+         "preImage": "/dezy/PPR/teeth.png",
+         "postImage": "/dezy/PPR/teeth.png",
+         "mappingKey": "Crowns"
+     },
+     "Implant crown- PFM- Cement retained": {
+         "name": "Implant crown- PFM- Cement retained",
+         "price": 4999,
+         "active": true,
+         "description": "A porcelain-fused-to-metal dental crown attached to an implant via cement.",
+         "preImage": "/dezy/PPR/teeth.png",
+         "postImage": "/dezy/PPR/teeth.png",
+         "mappingKey": "Crowns"
+     },
+     "Implant crown- Zirconia- Screw retained": {
+         "name": "Implant crown- Zirconia- Screw retained",
+         "price": 9999,
+         "active": true,
+         "description": "A Zirconia dental crown attached to an implant with a screw for enhanced aesthetics.",
+         "preImage": "/dezy/PPR/teeth.png",
+         "postImage": "/dezy/PPR/teeth.png",
+         "mappingKey": "Crowns"
+     },
+     "Implant crown- Zirconia- Cement retained": {
+         "name": "Implant crown- Zirconia- Cement retained",
+         "price": 9999,
+         "active": true,
+         "description": "A Zirconia dental crown attached to an implant with cement for enhanced aesthetics.",
+         "preImage": "/dezy/PPR/teeth.png",
+         "postImage": "/dezy/PPR/teeth.png",
+         "mappingKey": "Crowns"
+     },
+     "All on 6 implant - implant+ prosthesis": {
+         "name": "All on 6 implant - implant+ prosthesis",
+         "price": 0,
+         "active": true,
+         "type": "implant",
+         "description": "A full arch dental restoration supported by six implants to replace missing teeth.",
+         "preImage": "/dezy/PPR/pre-post/implant_before.png",
+         "postImage": "/dezy/PPR/pre-post/implant_after.png",
+         "knowMore": "/services/dental-implants",
+         "mappingKey": "Implant"
+     },
+     "All on 4 implant - implant+ prosthesis": {
+         "name": "All on 4 implant - implant+ prosthesis",
+         "price": 0,
+         "active": true,
+         "type": "implant",
+         "description": "A full arch dental restoration supported by four implants to replace missing teeth.",
+         "preImage": "/dezy/PPR/pre-post/implant_before.png",
+         "postImage": "/dezy/PPR/pre-post/implant_after.png",
+         "knowMore": "/services/dental-implants",
+         "mappingKey": "Implant"
+     },
+     "Temporary crown ": {
+         "name": "Temporary crown ",
+         "price": 1000,
+         "active": true,
+         "description": "A provisional crown placed over a prepared tooth while the permanent crown is being fabricated.",
+         "preImage": "/dezy/PPR/teeth.png",
+         "postImage": "/dezy/PPR/teeth.png",
+         "mappingKey": "Crowns"
+     },
+     "Implant supported overdentures": {
+         "name": "Implant supported overdentures",
+         "price": 0,
+         "active": true,
+         "description": "Dentures attached to dental implants for improved stability and function.",
+         "preImage": "/dezy/PPR/pre-post/braces_before.png",
+         "postImage": "/dezy/PPR/pre-post/braces_after.png",
+         "knowMore": "/services/braces",
+         "mappingKey": "Braces"
+     },
+     "Metallic Braces": {
+         "name": "Metallic Braces",
+         "price": 29999,
+         "active": true,
+         "type": "aligner",
+         "description": "Orthodontic devices to align teeth using metallic material for durability",
+         "preImage": "/dezy/PPR/pre-post/braces_before.png",
+         "postImage": "/dezy/PPR/pre-post/braces_after.png",
+         "knowMore": "/services/braces",
+         "mappingKey": "Braces"
+     },
+     "Ceramic Braces": {
+         "name": "Ceramic Braces",
+         "price": 44999,
+         "active": true,
+         "type": "aligner",
+         "description": "Orthodontic devices to align teeth using ceramic material for aesthetics",
+         "preImage": "/dezy/PPR/pre-post/braces_before.png",
+         "postImage": "/dezy/PPR/pre-post/braces_after.png",
+         "knowMore": "/services/braces",
+         "mappingKey": "Braces"
+     },
+     "Imported Self Ligature Braces-Ceramic": {
+         "name": "Imported Self Ligature Braces-Ceramic",
+         "price": 70799,
+         "active": true,
+         "type": "aligner",
+         "description": "Imported advanced braces with self-ligating brackets for efficient tooth movement.",
+         "preImage": "/dezy/PPR/pre-post/braces_before.png",
+         "postImage": "/dezy/PPR/pre-post/braces_after.png",
+         "knowMore": "/services/braces",
+         "mappingKey": "Braces"
+     },
+     "Self Ligature Braces-Metal": {
+         "name": "Self Ligature Braces-Metal",
+         "price": 58999,
+         "active": true,
+         "type": "aligner",
+         "description": "Advanced braces with self-ligating brackets for efficient tooth movement.",
+         "preImage": "/dezy/PPR/pre-post/braces_before.png",
+         "postImage": "/dezy/PPR/pre-post/braces_after.png",
+         "knowMore": "/services/braces",
+         "mappingKey": "Braces"
+     },
+     "Smiles.ai Aligners Variant A (Aligner Simple) ": {
+         "name": "Smiles.ai Aligners Variant A (Aligner Simple) ",
+         "price": 49999,
+         "active": true,
+         "type": "aligner",
+         "description": "Custom clear aligners for gradual teeth straightening of simple cases.",
+         "preImage": "/dezy/PPR/pre-post/aligner_before.png",
+         "postImage": "/dezy/PPR/pre-post/aligner_after.png",
+         "knowMore": "/services/aligners",
+         "mappingKey": "Aligner"
+     },
+     "Smiles.ai Aligners Variant B (Aligner Complex)": {
+         "name": "Smiles.ai Aligners Variant B (Aligner Complex)",
+         "price": 58999,
+         "active": true,
+         "type": "aligner",
+         "description": "Custom clear aligners for gradual teeth straightening of complex cases.",
+         "preImage": "/dezy/PPR/pre-post/aligner_before.png",
+         "postImage": "/dezy/PPR/pre-post/aligner_after.png",
+         "knowMore": "/services/aligners",
+         "mappingKey": "Aligner"
+     },
+     "Smiles.ai Aligners Hybrid": {
+         "name": "Smiles.ai Aligners Hybrid",
+         "price": 58999,
+         "active": true,
+         "type": "aligner",
+         "description": "Custom clear aligners for gradual teeth straightening in combination with braces.",
+         "preImage": "/dezy/PPR/pre-post/aligner_before.png",
+         "postImage": "/dezy/PPR/pre-post/aligner_after.png",
+         "knowMore": "/services/aligners",
+         "mappingKey": "Aligner"
+     },
+     "Habit Breaking Appliance (starts from)": {
+         "name": "Habit Breaking Appliance (starts from)",
+         "price": 3499,
+         "active": true,
+         "description": "Dental devices used to correct harmful oral habits in children."
+     },
+     "Orthopedic /Myofunctional appliances": {
+         "name": "Orthopedic /Myofunctional appliances",
+         "price": 14999,
+         "active": true,
+         "description": "Devices to guide jaw growth and correct jaw-related issues."
+     },
+     "Fixed retainer": {
+         "name": "Fixed retainer",
+         "price": 3999,
+         "active": true,
+         "description": "Fixed dental appliance used for teeth alignment and bite correction."
+     },
+     "Removable appliances": {
+         "name": "Removable appliances",
+         "price": 3999,
+         "active": true,
+         "description": "Removable dental appliance used for teeth alignment and bite correction."
+     },
+     "Expander- removable/Fixed": {
+         "name": "Expander- removable/Fixed",
+         "price": 4999,
+         "active": true,
+         "description": "An expander is a dental appliance used to widen the upper jaw and correct issues related to narrow dental arches and misalignment."
+     },
+     "Essix retainer": {
+         "name": "Essix retainer",
+         "price": 1999,
+         "active": true,
+         "description": "Transparent, removable retainers used to maintain teeth position after orthodontic treatment."
+     },
+     "TADs ": {
+         "name": "TADs ",
+         "price": 2499,
+         "active": true,
+         "description": "Temporary Anchorage Devices used to provide stable anchor points for tooth movement during orthodontic treatment."
+     },
+     "Fixed functional appliance": {
+         "name": "Fixed functional appliance",
+         "price": 14999,
+         "active": true,
+         "description": "A dental device used to correct jaw discrepancies and promote proper bite alignment by applying gentle pressure on the teeth and jaw."
+     },
+     "Sleep apnoe devise- ASD": {
+         "name": "Sleep apnoe devise- ASD",
+         "price": 11999,
+         "active": true,
+         "description": "An appliance designed to treat sleep apnea by advancing the lower jaw, which helps keep the airway open during sleep, preventing interruptions in breathing."
+     },
+     "Deprogramming splint - TMD": {
+         "name": "Deprogramming splint - TMD",
+         "price": 4499,
+         "active": true,
+         "description": "A custom-made oral device used to relax the jaw muscles and alleviate temporomandibular joint disorder (TMD) symptoms by preventing teeth contact during jaw movement."
+     },
+     "Topical Fluoride Application (per tooth)": {
+         "name": "Topical Fluoride Application (per tooth)",
+         "price": 399,
+         "active": true,
+         "description": "A procedure where fluoride is applied to the individual tooth surface to strengthen enamel, prevent tooth decay, and reduce sensitivity."
+     },
+     "Composite Filling kids (Paediatric patients)": {
+         "name": "Composite Filling kids (Paediatric patients)",
+         "price": 799,
+         "active": true,
+         "description": "A tooth-colored filling material used to repair cavities in children's teeth, blending with the natural tooth color for a more aesthetic result.",
+         "preImage": "/dezy/PPR/pre-post/comp_filing_pre.jpeg",
+         "postImage": "/dezy/PPR/pre-post/comp_filling_post.jpeg",
+         "knowMore": "/services/dental-bonding",
+         "mappingKey": "Composite filling"
+     },
+     "Root Canal Treatment Kids (Paediatric patients)": {
+         "name": "Root Canal Treatment Kids (Paediatric patients)",
+         "price": 3999,
+         "active": true,
+         "description": "A dental procedure performed on children's teeth to remove infected pulp, clean the root canal, and seal it to save a severely decayed or injured tooth.",
+         "preImage": "/dezy/PPR/pre-post/canal_pre.png",
+         "postImage": "/dezy/PPR/pre-post/canal_post.png",
+         "knowMore": "/services/root-canal",
+         "mappingKey": "Root Canal Treatment"
+     },
+     "Extraction- Mobile tooth": {
+         "name": "Extraction- Mobile tooth",
+         "price": 799,
+         "active": true,
+         "description": "The removal of a loose or mobile tooth that cannot be saved due to advanced periodontal disease or trauma.",
+         "preImage": "/dezy/PPR/pre-post/ext_pre.jpeg",
+         "postImage": "/dezy/PPR/pre-post/ext_post.jpeg",
+         "knowMore": "/services/tooth-extraction",
+         "mappingKey": "Extraction"
+     },
+     "Extraction- decayed/serial extraction ": {
+         "name": "Extraction- decayed/serial extraction ",
+         "price": 1499,
+         "active": true,
+         "description": "The removal of a severely decayed tooth or a planned extraction of specific teeth as part of a treatment plan, typically for orthodontic purposes.",
+         "preImage": "/dezy/PPR/pre-post/ext_pre.jpeg",
+         "postImage": "/dezy/PPR/pre-post/ext_post.jpeg",
+         "knowMore": "/services/tooth-extraction",
+         "mappingKey": "Extraction"
+     },
+     "Pedo crowns- metal": {
+         "name": "Pedo crowns- metal",
+         "price": 1499,
+         "active": true,
+         "description": "Metal crowns used for children's primary teeth to restore severely damaged or decayed teeth.",
+         "preImage": "/dezy/PPR/teeth.png",
+         "postImage": "/dezy/PPR/teeth.png",
+         "mappingKey": "Crowns"
+     },
+     "Pedo crowns- Zirconia": {
+         "name": "Pedo crowns- Zirconia",
+         "price": 1999,
+         "active": true,
+         "description": "Zirconia crowns used for children's primary teeth as a durable and aesthetic alternative to metal crowns.",
+         "preImage": "/dezy/PPR/teeth.png",
+         "postImage": "/dezy/PPR/teeth.png",
+         "mappingKey": "Crowns"
+     },
+     "Space maintainer": {
+         "name": "Space maintainer",
+         "price": 2999,
+         "active": true,
+         "description": "A dental device used to hold space for a permanent tooth when a primary tooth is lost prematurely, preventing neighboring teeth from shifting."
+     },
+     "Pulpectomy ": {
+         "name": "Pulpectomy ",
+         "price": 4499,
+         "active": true,
+         "description": "A root canal treatment for primary (baby) teeth, removing infected pulp to relieve pain and prevent the spread of infection.",
+         "preImage": "/dezy/PPR/pre-post/canal_pre.png",
+         "postImage": "/dezy/PPR/pre-post/canal_post.png",
+         "knowMore": "/services/root-canal",
+         "mappingKey": "Root Canal Treatment"
+     },
+     "Re-implantation-tooth avulsion": {
+         "name": "Re-implantation-tooth avulsion",
+         "price": 2499,
+         "active": true,
+         "description": "The procedure of reinserting an avulsed (knocked-out) tooth back into its socket to attempt to save the tooth."
+     },
+     "Sports splints- custom made": {
+         "name": "Sports splints- custom made",
+         "price": 4999,
+         "active": true,
+         "description": "Customized mouthguards used during sports activities to protect teeth and reduce the risk of dental injuries."
+     },
+     "Crown lengthening-manual(scalpel)- per tooth": {
+         "name": "Crown lengthening-manual(scalpel)- per tooth",
+         "price": 2499,
+         "active": true,
+         "description": "A surgical procedure to expose more tooth structure by removing gum tissue and bone, often performed to prepare for crown placement."
+     },
+     "Flap Surgery -Full mouth": {
+         "name": "Flap Surgery -Full mouth",
+         "price": 19999,
+         "active": true,
+         "description": "A surgical procedure where gum tissue is lifted and bone reshaped to treat advanced gum disease affecting the entire mouth."
+     },
+     "Flap Surgery -Per quadrant ": {
+         "name": "Flap Surgery -Per quadrant ",
+         "price": 4999,
+         "active": true,
+         "description": "A surgical procedure similar to full mouth flap surgery but performed on one quadrant (quarter) of the mouth at a time."
+     },
+     "Bone Graft (DEPENDING ON THE GRAFT)": {
+         "name": "Bone Graft (DEPENDING ON THE GRAFT)",
+         "price": 0,
+         "active": true,
+         "description": "A procedure to augment bone volume using various bone graft materials, promoting implant success or enhancing bone health."
+     },
+     "Bone Graft - Perioglass (0.50 cc)": {
+         "name": "Bone Graft - Perioglass (0.50 cc)",
+         "price": 2500,
+         "active": true,
+         "description": "A specific type and quantity of bone graft material (Perioglass) used to fill bone defects and stimulate new bone growth."
+     },
+     "Bone Graft - Nova Bone Putty (0.25cc)": {
+         "name": "Bone Graft - Nova Bone Putty (0.25cc)",
+         "price": 3000,
+         "active": true,
+         "description": "A specific type and quantity of bone graft material (Nova Bone Putty) used for bone regeneration and supporting implant placement."
+     },
+     "Membrane (cologide)": {
+         "name": "Membrane (cologide)",
+         "price": 1000,
+         "active": true,
+         "description": "A collagen-based membrane used in guided tissue regeneration to promote the growth of new bone and gum tissue during surgical procedures."
+     },
+     "Curettage (per qudrant )": {
+         "name": "Curettage (per qudrant )",
+         "price": 2500,
+         "active": true,
+         "description": "A deep cleaning procedure performed on one quadrant of the mouth to treat gum disease and remove infected tissue."
+     },
+     "Splinting- 4 teeth": {
+         "name": "Splinting- 4 teeth",
+         "price": 2999,
+         "active": true,
+         "description": "The stabilization of four teeth together using a splint to provide support and immobilization, usually after trauma or due to periodontal issues."
+     },
+     "Crown - PFM 5yrs Warranty": {
+         "name": "Crown - PFM 5yrs Warranty",
+         "price": 4499,
+         "active": true,
+         "description": "A porcelain-fused-to-metal crown with a 5-year warranty, offering both strength and aesthetics.",
+         "preImage": "/dezy/PPR/teeth.png",
+         "postImage": "/dezy/PPR/teeth.png",
+         "mappingKey": "Crowns"
+     },
+     "Crown- DMLS 10yrs Warraty": {
+         "name": "Crown- DMLS 10yrs Warraty",
+         "price": 5999,
+         "active": true,
+         "description": "A crown made using Direct Metal Laser Sintering technology, providing high durability and a 10-year warranty.",
+         "preImage": "/dezy/PPR/teeth.png",
+         "postImage": "/dezy/PPR/teeth.png",
+         "mappingKey": "Crowns"
+     },
+     "Crown- Zirconia 7 yrs": {
+         "name": "Crown- Zirconia 7 yrs",
+         "price": 7999,
+         "active": true,
+         "description": "A Zirconia crown with a 7-year lifespan, offering excellent aesthetics and strength.",
+         "preImage": "/dezy/PPR/teeth.png",
+         "postImage": "/dezy/PPR/teeth.png",
+         "mappingKey": "Crowns"
+     },
+     "Crown- Premium Zirconia15 yrs": {
+         "name": "Crown- Premium Zirconia15 yrs",
+         "price": 12999,
+         "active": true,
+         "description": "A premium Zirconia crown known for its superior strength and aesthetics, with a 15-year lifespan.",
+         "preImage": "/dezy/PPR/teeth.png",
+         "postImage": "/dezy/PPR/teeth.png",
+         "mappingKey": "Crowns"
+     },
+     "Complete Denture - Indian": {
+         "name": "Complete Denture - Indian",
+         "price": 20999,
+         "active": true,
+         "description": "A full set of dentures made using conventional techniques for patients with missing teeth.",
+         "preImage": "/dezy/PPR/pre-post/fix_denture_before.png",
+         "postImage": "/dezy/PPR/pre-post/fix_denture_after.png",
+         "knowMore": "/services/complete-dentures",
+         "mappingKey": "Fixed Hybrid denture"
+     },
+     "Complete Denture - BPS": {
+         "name": "Complete Denture - BPS",
+         "price": 35000,
+         "active": true,
+         "description": "A complete denture fabricated using the Biofunctional Prosthetic System (BPS) technique, ensuring better fit and function.",
+         "preImage": "/dezy/PPR/pre-post/fix_denture_before.png",
+         "postImage": "/dezy/PPR/pre-post/fix_denture_after.png",
+         "knowMore": "/services/complete-dentures",
+         "mappingKey": "Fixed Hybrid denture"
+     },
+     "Removable Partial Denture- upto 3 teeth": {
+         "name": "Removable Partial Denture- upto 3 teeth",
+         "price": 2999,
+         "active": true,
+         "description": "A removable prosthesis used to replace up to three missing teeth.",
+         "preImage": "/dezy/PPR/pre-post/fix_denture_before.png",
+         "postImage": "/dezy/PPR/pre-post/fix_denture_after.png",
+         "knowMore": "/services/complete-dentures",
+         "mappingKey": "Removable complete denture"
+     },
+     "Removable Partial Denture- add on -Per tooth": {
+         "name": "Removable Partial Denture- add on -Per tooth",
+         "price": 999,
+         "active": true,
+         "description": "Adding an additional artificial tooth to an existing removable partial denture.",
+         "preImage": "/dezy/PPR/pre-post/fix_denture_before.png",
+         "postImage": "/dezy/PPR/pre-post/fix_denture_after.png",
+         "knowMore": "/services/complete-dentures",
+         "mappingKey": "Removable complete denture"
+     },
+     "Flexible Partial Denture- upto 3 teeth ": {
+         "name": "Flexible Partial Denture- upto 3 teeth ",
+         "price": 3999,
+         "active": true,
+         "description": "A flexible and lightweight removable partial denture used to replace up to three missing teeth.",
+         "preImage": "/dezy/PPR/pre-post/fix_denture_before.png",
+         "postImage": "/dezy/PPR/pre-post/implafix_denture_afternt_before.png",
+         "knowMore": "/services/complete-dentures",
+         "mappingKey": "Bridge Partial dentures"
+     },
+     "Flexible Partial Denture- add on per tooth ": {
+         "name": "Flexible Partial Denture- add on per tooth ",
+         "price": 999,
+         "active": true,
+         "description": "Adding a flexible artificial tooth to an existing flexible partial denture."
+     },
+     "CAD CAM CPD- upto 3 teeth ": {
+         "name": "CAD CAM CPD- upto 3 teeth ",
+         "price": 7999,
+         "active": true,
+         "description": "A computer-aided design and manufacturing technique used to create a custom partial denture for up to three missing teeth."
+     },
+     "CPD- add on per tooth": {
+         "name": "CPD- add on per tooth",
+         "price": 999,
+         "active": true,
+         "description": "Adding a custom artificial tooth to an existing CAD CAM partial denture."
+     },
+     "Metal crown": {
+         "name": "Metal crown",
+         "price": 2499,
+         "active": true,
+         "description": "A crown made entirely of metal, often used for posterior teeth due to its durability."
+     },
+     "Recementation": {
+         "name": "Recementation",
+         "price": 799,
+         "active": true,
+         "description": "The process of reattaching a dental restoration, such as a crown or bridge, to the prepared tooth surface using dental cement."
+     },
+     "Re-lining and rebasing": {
+         "name": "Re-lining and rebasing",
+         "price": 2999,
+         "active": true,
+         "description": "Adjusting the fit of a denture by adding new material to the fitting surface (re-lining) or creating an entirely new base (rebasing)."
+     },
+     "Crown removal": {
+         "name": "Crown removal",
+         "price": 1499,
+         "active": true,
+         "description": "The careful removal of a dental crown to assess the underlying tooth or prepare for a new restoration."
+     },
+     "Intra-oral scan": {
+         "name": "Intra-oral scan",
+         "price": 0,
+         "active": true,
+         "description": "A digital scanning method used to create a three-dimensional model of the teeth and oral structures for various dental treatments."
+     },
+     "Mock up- Lab": {
+         "name": "Mock up- Lab",
+         "price": 1999,
+         "active": true,
+         "description": "A replica or model of a proposed dental treatment plan created in the dental laboratory to visualize the final result before actual treatment."
+     },
+     "Tooth Extraction - Firm": {
+         "name": "Tooth Extraction - Firm",
+         "price": 1499,
+         "active": true,
+         "description": "The extraction of a tooth with stable roots and surrounding bone.",
+         "preImage": "/dezy/PPR/pre-post/ext_pre.jpeg",
+         "postImage": "/dezy/PPR/pre-post/ext_post.jpeg",
+         "knowMore": "/services/tooth-extraction",
+         "mappingKey": "Extraction"
+     },
+     "Tooth Extraction - Mobile": {
+         "name": "Tooth Extraction - Mobile",
+         "price": 799,
+         "active": true,
+         "description": "The extraction of a tooth that has become loose due to gum disease or trauma.",
+         "preImage": "/dezy/PPR/pre-post/ext_pre.jpeg",
+         "postImage": "/dezy/PPR/pre-post/ext_post.jpeg",
+         "knowMore": "/services/tooth-extraction",
+         "mappingKey": "Extraction"
+     },
+     "Tooth Extraction - Root Stumps": {
+         "name": "Tooth Extraction - Root Stumps",
+         "price": 1499,
+         "active": true,
+         "description": "The removal of the remaining root portion of a broken or decayed tooth that cannot be restored.",
+         "preImage": "/dezy/PPR/pre-post/ext_pre.jpeg",
+         "postImage": "/dezy/PPR/pre-post/ext_post.jpeg",
+         "knowMore": "/services/tooth-extraction",
+         "mappingKey": "Extraction"
+     },
+     "Tooth Extraction - Surgical": {
+         "name": "Tooth Extraction - Surgical",
+         "price": 2999,
+         "active": true,
+         "description": "A more complex tooth extraction requiring a surgical approach, often necessary for impacted or severely damaged teeth.",
+         "preImage": "/dezy/PPR/pre-post/ext_pre.jpeg",
+         "postImage": "/dezy/PPR/pre-post/ext_post.jpeg",
+         "knowMore": "/services/tooth-extraction",
+         "mappingKey": "Extraction"
+     },
+     "3rd molar Extraction - Non surgical": {
+         "name": "3rd molar Extraction - Non surgical",
+         "price": 2999,
+         "active": true,
+         "description": "The removal of a third molar (wisdom tooth) without the need for surgical intervention.",
+         "preImage": "/dezy/PPR/pre-post/ext_pre.jpeg",
+         "postImage": "/dezy/PPR/pre-post/ext_post.jpeg",
+         "knowMore": "/services/tooth-extraction",
+         "mappingKey": "Extraction"
+     },
+     "3rd molar Disimpaction - Surgical": {
+         "name": "3rd molar Disimpaction - Surgical",
+         "price": 4999,
+         "active": true,
+         "description": "A surgical procedure to remove an impacted third molar (wisdom tooth) that hasn't erupted properly.",
+         "preImage": "/dezy/PPR/pre-post/ext_pre.jpeg",
+         "postImage": "/dezy/PPR/pre-post/ext_post.jpeg",
+         "knowMore": "/services/tooth-extraction",
+         "mappingKey": "Extraction"
+     },
+     "3rd molar Disimpaction - Surgical- Distoangular": {
+         "name": "3rd molar Disimpaction - Surgical- Distoangular",
+         "price": 6999,
+         "active": true,
+         "description": "Surgical removal of a horizontally impacted third molar (wisdom tooth) situated towards the back of the mouth.",
+         "preImage": "/dezy/PPR/pre-post/ext_pre.jpeg",
+         "postImage": "/dezy/PPR/pre-post/ext_post.jpeg",
+         "knowMore": "/services/tooth-extraction",
+         "mappingKey": "Extraction"
+     },
+     "3rd molar Disimpaction - Surgical-Horizontal impaction": {
+         "name": "3rd molar Disimpaction - Surgical-Horizontal impaction",
+         "price": 7999,
+         "active": true,
+         "description": "Surgical removal of horizontally impacted third molars (wisdom teeth) located towards the back of the mouth.",
+         "preImage": "/dezy/PPR/pre-post/ext_pre.jpeg",
+         "postImage": "/dezy/PPR/pre-post/ext_post.jpeg",
+         "knowMore": "/services/tooth-extraction",
+         "mappingKey": "Extraction"
+     },
+     "Indirect Sinus Lift plus Bone Graft charges": {
+         "name": "Indirect Sinus Lift plus Bone Graft charges",
+         "price": 9999,
+         "active": true,
+         "description": "A procedure to augment bone volume in the upper jaw using a bone graft, usually accompanied by a sinus lift, to create a stable base for dental implants."
+     },
+     "Direct sinus lift with graft": {
+         "name": "Direct sinus lift with graft",
+         "price": 19999,
+         "active": true,
+         "description": "A surgical procedure to lift the sinus membrane and place a bone graft in the upper jaw to support dental implants."
+     },
+     "Ridge augmentation": {
+         "name": "Ridge augmentation",
+         "price": 6999,
+         "active": true,
+         "description": "A surgical procedure to build up the height and width of the jawbone, often necessary for successful implant placement or aesthetic improvements."
+     },
+     "Frenectomy/Minor oral surgery procedures": {
+         "name": "Frenectomy/Minor oral surgery procedures",
+         "price": 2999,
+         "active": true,
+         "description": "Surgical removal of a frenulum, a fold of tissue that restricts movement, commonly performed on the tongue or lips to correct speech or movement issues."
+     },
+     "Cyst enucleation": {
+         "name": "Cyst enucleation",
+         "price": 9999,
+         "active": true,
+         "description": "Surgical removal of a cyst-like sac within the jawbone to prevent further growth and potential damage to surrounding structures."
+     },
+     "Surgical canine exposure- Buccal": {
+         "name": "Surgical canine exposure- Buccal",
+         "price": 2499,
+         "active": true,
+         "description": "A surgical procedure to expose an impacted canine tooth, facilitating orthodontic alignment."
+     },
+     "Surgical canine exposure- Palatal": {
+         "name": "Surgical canine exposure- Palatal",
+         "price": 3499,
+         "active": true,
+         "description": "A surgical procedure to expose an impacted canine tooth from the palate (roof of the mouth) to enable orthodontic treatment."
+     },
+     "Alveoplasty": {
+         "name": "Alveoplasty",
+         "price": 1999,
+         "active": true,
+         "description": "Surgical reshaping and smoothing of the jawbone following tooth extraction to prepare for dentures or improve healing."
+     },
+     "Operculectomy": {
+         "name": "Operculectomy",
+         "price": 2999,
+         "active": true,
+         "description": "The surgical removal of the gum tissue covering a partially erupted tooth to prevent inflammation and infection."
+     },
+     "Incisional Biopsy- excluding lab cost ": {
+         "name": "Incisional Biopsy- excluding lab cost ",
+         "price": 1499,
+         "active": true,
+         "description": "A surgical procedure to remove a small sample of tissue for examination to diagnose oral lesions or abnormalities."
+     },
+     "Excisional Biopsy- excluding lab cost ": {
+         "name": "Excisional Biopsy- excluding lab cost ",
+         "price": 1999,
+         "active": true,
+         "description": "A surgical procedure to completely remove a suspicious oral lesion or abnormal tissue for diagnostic purposes."
+     },
+     "Socket preservation": {
+         "name": "Socket preservation",
+         "price": 4999,
+         "active": true,
+         "description": "The placement of bone graft material in a tooth extraction socket to preserve bone volume for future implant placement."
+     },
+     "OSMF (Limited Mouth Opening) - Through Injectable Hydrocortisone or surgical": {
+         "name": "OSMF (Limited Mouth Opening) - Through Injectable Hydrocortisone or surgical",
+         "price": 499,
+         "active": true,
+         "description": "Treatment for Oral Submucous Fibrosis, either with injectable hydrocortisone or surgical intervention to improve mouth opening."
+     },
+     "Implant +PFM crown": {
+         "name": "Implant +PFM crown",
+         "price": 25000,
+         "active": true,
+         "type": "implant",
+         "description": "Placement of a dental implant followed by a porcelain-fused-to-metal crown for durability and aesthetics.",
+         "preImage": "/dezy/PPR/pre-post/implant_before.png",
+         "postImage": "/dezy/PPR/pre-post/implant_after.png",
+         "knowMore": "/services/dental-implants",
+         "mappingKey": "Implant"
+     },
+     "Implant +Zirconia crown": {
+         "name": "Implant +Zirconia crown",
+         "price": 30000,
+         "active": true,
+         "type": "implant",
+         "description": "Placement of a dental implant followed by a zirconia crown for excellent aesthetics and strength.",
+         "preImage": "/dezy/PPR/pre-post/implant_before.png",
+         "postImage": "/dezy/PPR/pre-post/implant_after.png",
+         "knowMore": "/services/dental-implants",
+         "mappingKey": "Implant"
+     },
+     "Implant crown - PFM (5yrs warranty)": {
+         "name": "Implant crown - PFM (5yrs warranty)",
+         "price": 5000,
+         "active": true,
+         "description": "A porcelain-fused-to-metal crown placed on a dental implant, typically covered by a 5-year warranty.",
+         "preImage": "/dezy/PPR/pre-post/implant_before.png",
+         "postImage": "/dezy/PPR/pre-post/implant_after.png",
+         "knowMore": "/services/dental-implants",
+         "mappingKey": "Implant"
+     },
+     "Implant crown - Zirconia (10yrs warranty)": {
+         "name": "Implant crown - Zirconia (10yrs warranty)",
+         "price": 10000,
+         "active": true,
+         "description": "A zirconia crown placed on a dental implant, usually with a 10-year warranty.",
+         "preImage": "/dezy/PPR/pre-post/implant_before.png",
+         "postImage": "/dezy/PPR/pre-post/implant_after.png",
+         "knowMore": "/services/dental-implants",
+         "mappingKey": "Implant"
+     },
+     "Implant - single": {
+         "name": "Implant - single",
+         "price": 19999,
+         "active": true,
+         "type": "implant",
+         "description": "Placement of a single dental implant to replace a missing tooth.",
+         "preImage": "/dezy/PPR/pre-post/implant_before.png",
+         "postImage": "/dezy/PPR/pre-post/implant_after.png",
+         "knowMore": "/services/dental-implants",
+         "mappingKey": "Implant"
+     },
+     "Single arch - Full(PFM/Zirconia)": {
+         "name": "Single arch - Full(PFM/Zirconia)",
+         "price": 125000,
+         "active": true,
+         "description": "Full set of porcelain-fused-to-metal or zirconia crowns on one dental arch.",
+         "preImage": "/dezy/PPR/pre-post/implant_before.png",
+         "postImage": "/dezy/PPR/pre-post/implant_after.png",
+         "knowMore": "/services/dental-implants",
+         "mappingKey": "Implant"
+     },
+     "Double arch - Full(PFM/Zirconia)": {
+         "name": "Double arch - Full(PFM/Zirconia)",
+         "price": 225000,
+         "active": true,
+         "description": "Full set of porcelain-fused-to-metal or zirconia crowns on both dental arches.",
+         "preImage": "/dezy/PPR/pre-post/implant_before.png",
+         "postImage": "/dezy/PPR/pre-post/implant_after.png",
+         "knowMore": "/services/dental-implants",
+         "mappingKey": "Implant"
+     },
+     "Implant supported overdenture - Ball attachment (4 implant)": {
+         "name": "Implant supported overdenture - Ball attachment (4 implant)",
+         "price": 105000,
+         "active": true,
+         "type": "implant",
+         "description": "A removable denture secured by ball attachments on four dental implants.",
+         "preImage": "/dezy/PPR/pre-post/implant_before.png",
+         "postImage": "/dezy/PPR/pre-post/implant_after.png",
+         "knowMore": "/services/dental-implants",
+         "mappingKey": "Implant"
+     },
+     "Implant supported overdenture - Bar attachment (6 implant )": {
+         "name": "Implant supported overdenture - Bar attachment (6 implant )",
+         "price": 160000,
+         "active": true,
+         "type": "implant",
+         "description": "A removable denture anchored by a metal bar connected to six dental implants.",
+         "preImage": "/dezy/PPR/pre-post/implant_before.png",
+         "postImage": "/dezy/PPR/pre-post/implant_after.png",
+         "knowMore": "/services/dental-implants",
+         "mappingKey": "Implant"
+     },
+     "Implant supported overdenture - (5 implants)": {
+         "name": "Implant supported overdenture - (5 implants)",
+         "price": 130000,
+         "active": true,
+         "type": "implant",
+         "description": "A removable denture attached to five dental implants for enhanced stability.",
+         "preImage": "/dezy/PPR/pre-post/implant_before.png",
+         "postImage": "/dezy/PPR/pre-post/implant_after.png",
+         "knowMore": "/services/dental-implants",
+         "mappingKey": "Implant"
+     },
+     "Implant supported overdenture - single arch (2 implants)": {
+         "name": "Implant supported overdenture - single arch (2 implants)",
+         "price": 65000,
+         "active": true,
+         "type": "implant",
+         "description": "A removable denture supported by two dental implants on a single arch.",
+         "preImage": "/dezy/PPR/pre-post/implant_before.png",
+         "postImage": "/dezy/PPR/pre-post/implant_after.png",
+         "knowMore": "/services/dental-implants",
+         "mappingKey": "Implant"
+     },
+     "Implant supported overdenture - single arch (3 implants)": {
+         "name": "Implant supported overdenture - single arch (3 implants)",
+         "price": 95000,
+         "active": true,
+         "type": "implant",
+         "description": "A removable denture supported by three dental implants on a single arch.",
+         "preImage": "/dezy/PPR/pre-post/implant_before.png",
+         "postImage": "/dezy/PPR/pre-post/implant_after.png",
+         "knowMore": "/services/dental-implants",
+         "mappingKey": "Implant"
+     },
+     "Smiles.ai Aligners Hybrid- Metal": {
+         "name": "Smiles.ai Aligners Hybrid- Metal",
+         "price": 49999,
+         "active": true,
+         "type": "aligner",
+         "description": "Hybrid aligners combining traditional and clear aligner therapy, using metal attachments for tooth movement.",
+         "preImage": "/dezy/PPR/pre-post/aligner_before.png",
+         "postImage": "/dezy/PPR/pre-post/aligner_after.png",
+         "knowMore": "/services/aligners",
+         "mappingKey": "Aligner"
+     },
+     "Smiles.ai Aligners Hybrid- Ceramic": {
+         "name": "Smiles.ai Aligners Hybrid- Ceramic",
+         "price": 94999,
+         "active": true,
+         "type": "aligner",
+         "description": "Hybrid aligners combining traditional and clear aligner therapy, using ceramic attachments for tooth movement.",
+         "preImage": "/dezy/PPR/pre-post/aligner_before.png",
+         "postImage": "/dezy/PPR/pre-post/aligner_after.png",
+         "knowMore": "/services/aligners",
+         "mappingKey": "Aligner"
+     },
+     "Smiles.ai Aligners Hybrid- Self ligation metral": {
+         "name": "Smiles.ai Aligners Hybrid- Self ligation metral",
+         "price": 74999,
+         "active": true,
+         "type": "aligner",
+         "description": "Hybrid aligners combining traditional and self-ligating brackets for orthodontic treatment.",
+         "preImage": "/dezy/PPR/pre-post/aligner_before.png",
+         "postImage": "/dezy/PPR/pre-post/aligner_after.png",
+         "knowMore": "/services/aligners",
+         "mappingKey": "Aligner"
+     },
+     "Indirect Sinus Lift /quadrant": {
+         "name": "Indirect Sinus Lift /quadrant",
+         "price": 10000,
+         "active": true,
+         "description": "Augmenting bone in a specific quadrant of the upper jaw using a bone graft, commonly combined with a sinus lift for dental implant placement."
+     },
+     "Bone graft - sinus lift (add on)/quadrant": {
+         "name": "Bone graft - sinus lift (add on)/quadrant",
+         "price": 4500,
+         "active": true,
+         "description": "Adding bone graft material during a sinus lift procedure in a specific quadrant of the upper jaw."
+     },
+     "Direct sinus lift /Quadrant": {
+         "name": "Direct sinus lift /Quadrant",
+         "price": 15000,
+         "active": true,
+         "description": "A surgical procedure to lift the sinus membrane and place a bone graft in a specific quadrant of the upper jaw to support dental implants."
+     },
+     "Trauma - IMF": {
+         "name": "Trauma - IMF",
+         "price": 20000,
+         "active": true,
+         "description": "Intermaxillary fixation used to immobilize and stabilize the jaw after a traumatic injury or surgery."
+     },
+     "Laser -RCT (add on)": {
+         "name": "Laser -RCT (add on)",
+         "price": 2000,
+         "active": true,
+         "description": "The use of laser technology as an adjunct to root canal treatment for improved disinfection and healing."
+     },
+     "Laser - Currettage (add on ) Maxilla": {
+         "name": "Laser - Currettage (add on ) Maxilla",
+         "price": 2500,
+         "active": true,
+         "description": "Utilizing laser technology to assist in the currettage procedure, which involves removing infected tissue from the maxillary region."
+     },
+     "Laser - Currettage (add on ) Mandible": {
+         "name": "Laser - Currettage (add on ) Mandible",
+         "price": 2500,
+         "active": true,
+         "description": "Utilizing laser technology to assist in the currettage procedure, which involves removing infected tissue from the mandibular region."
+     },
+     "Laser assisted minor surgey (add on)": {
+         "name": "Laser assisted minor surgey (add on)",
+         "price": 2000,
+         "active": true,
+         "description": "Utilizing laser technology to assist in minor oral surgical procedures for improved precision and reduced healing time."
+     },
+     "Orthodontic follow up -per appointment": {
+         "name": "Orthodontic follow up -per appointment",
+         "price": 1000,
+         "active": true,
+         "description": "Regular follow-up appointments during orthodontic treatment to assess progress and make necessary adjustments."
+     },
+     "Canine disimpaction - Buccal": {
+         "name": "Canine disimpaction - Buccal",
+         "price": 3000,
+         "active": true,
+         "description": "Surgical exposure and alignment of impacted canine teeth from the buccal (cheek) side."
+     },
+     "Canine disimpaction-Palatal": {
+         "name": "Canine disimpaction-Palatal",
+         "price": 5000,
+         "active": true,
+         "description": "Surgical exposure and alignment of impacted canine teeth from the palatal (roof of the mouth) side."
+     },
+     "aligner": {
+        "name": "aligner",
+        "price": 49999,
+        "active": true,
+        "description": "Aligners are transparent, removable trays that gradually straighten teeth without braces. They provide a discreet and convenient orthodontic treatment option.",
+        "preImage": "/dezy/PPR/pre-post/aligner_before.png",
+        "postImage": "/dezy/PPR/pre-post/aligner_after.png",
+        "knowMore": "/services/aligners",
+        "mappingKey": "Aligner"
+     },
+     "implant": {
+        "name": "implant",
+        "price": 19999,
+        "active": true,
+        "type": "implant",
+        "description": "Dental implants are titanium posts surgically inserted into the jawbone to support artificial teeth, providing a durable and natural-looking solution for missing teeth.",
+        "preImage": "/dezy/PPR/pre-post/implant_before.png",
+        "postImage": "/dezy/PPR/pre-post/implant_after.png",
+        "knowMore": "/services/dental-implants",
+        "mappingKey": "Implant"
+     },
+     "brace": {
+        "name": "braces",
+        "price": 29999,
+        "active": true,
+        "description": "Braces are orthodontic devices consisting of metal or ceramic brackets bonded to teeth, connected by wires to correct misalignment and achieve straighter smiles.",
+        "preImage": "/dezy/PPR/pre-post/braces_before.png",
+        "postImage": "/dezy/PPR/pre-post/braces_after.png",
+        "knowMore": "/services/braces",
+        "mappingKey": "Braces"
+     }
+ }

@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="100" height="100" viewBox="0 0 100 100">
+  <g id="Implant" transform="translate(-192.17 -192.17)">
+    <g id="Group_1306" data-name="Group 1306" transform="translate(192.17 192.17)">
+      <circle id="Ellipse_129" data-name="Ellipse 129" cx="50" cy="50" r="50" transform="translate(0 0)" fill="#f0e4e1"/>
+      <ellipse id="Ellipse_130" data-name="Ellipse 130" cx="14.552" cy="4.751" rx="14.552" ry="4.751" transform="translate(35.448 73.452)" fill="#3b0c77"/>
+      <path id="Path_2053" data-name="Path 2053" d="M242.17,256.849c16.982,0,32.565,2.83,44.756,7.546a50,50,0,1,0-89.512,0C209.605,259.678,225.188,256.849,242.17,256.849Z" transform="translate(-192.17 -192.17)" fill="#3b0c77"/>
+      <g id="Group_1305" data-name="Group 1305" transform="translate(28.381 13.481)">
+        <g id="Group_1303" data-name="Group 1303">
+          <path id="Path_2054" data-name="Path 2054" d="M414.575,292.038a84.985,84.985,0,0,1-9.086-5.065c-4.9-3.135-12.3-.724-14.715,7.237-2.169,7.158,1.253,17.128,4.6,22.905a3.624,3.624,0,0,0,3.14,1.8h25.821a3.637,3.637,0,0,0,3.267-2.038c2.126-4.344,6.643-15.27,5.15-21.3-2.013-8.134-9.167-13.187-21.668-5.317" transform="translate(-390.094 -285.644)" fill="#fff"/>
+        </g>
+        <g id="Group_1304" data-name="Group 1304" transform="translate(17.382 36.718)">
+          <path id="Path_2055" data-name="Path 2055" d="M512.685,568.669h4.208l1.912-5.677V540.24H510.62v22.752Z" transform="translate(-510.62 -540.24)" fill="#b473f8"/>
+        </g>
+        <path id="Path_2056" data-name="Path 2056" d="M419.28,490.08l.087,3.016a2.367,2.367,0,0,0,1.423,2.094,36.471,36.471,0,0,0,31.224,0,2.365,2.365,0,0,0,1.423-2.094l-.045-3.016A46.162,46.162,0,0,1,419.28,490.08Z" transform="translate(-415.071 -460.596)" fill="#b473f8"/>
+      </g>
+    </g>
+  </g>
+</svg>
